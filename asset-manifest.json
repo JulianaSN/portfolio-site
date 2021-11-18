@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.b4c88157.chunk.css",
+    "main.css": "./static/css/main.d5a34de8.chunk.css",
     "main.js": "./static/js/main.2f6e4e1e.chunk.js",
     "main.js.map": "./static/js/main.2f6e4e1e.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.36f33866.js",
@@ -10,7 +10,7 @@
     "static/js/3.f418702b.chunk.js": "./static/js/3.f418702b.chunk.js",
     "static/js/3.f418702b.chunk.js.map": "./static/js/3.f418702b.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.b4c88157.chunk.css.map": "./static/css/main.b4c88157.chunk.css.map",
+    "static/css/main.d5a34de8.chunk.css.map": "./static/css/main.d5a34de8.chunk.css.map",
     "static/js/2.35f13d9f.chunk.js.LICENSE.txt": "./static/js/2.35f13d9f.chunk.js.LICENSE.txt",
     "static/media/05J_08.f9c11183.jpg": "./static/media/05J_08.f9c11183.jpg",
     "static/media/index.css": "./static/media/Comfortaa-Regular.886fcced.ttf",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.36f33866.js",
     "static/js/2.35f13d9f.chunk.js",
-    "static/css/main.b4c88157.chunk.css",
+    "static/css/main.d5a34de8.chunk.css",
     "static/js/main.2f6e4e1e.chunk.js"
   ]
 }
